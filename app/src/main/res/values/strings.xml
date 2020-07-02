@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">OficinaAV3</string>
+    <string name="email">E-mail</string>
+    <string name="senha">Senha</string>
+    <string name="nome_oficina">Oficina TONIMEK</string>
+    <string name="login">Login</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="buscar">Buscar</string>
+    <string name="sair">Sair</string>
+    <string name="tonimek">TONIMEK</string>
+
+
+</resources>

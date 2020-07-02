@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "813368194217",
+    "firebase_url": "https://oficina-tonimek.firebaseio.com",
+    "project_id": "oficina-tonimek",
+    "storage_bucket": "oficina-tonimek.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813368194217:android:c862acf4be381f0bd3a5b8",
+        "android_client_info": {
+          "package_name": "com.pedrojaime.oficinaav3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "813368194217-o6a3icvgmufljqh370o2rcks4hqsc3eu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pedrojaime.oficinaav3",
+            "certificate_hash": "f13f40c9598ab79573111cbbc9f3d74c6e7670fe"
+          }
+        },
+        {
+          "client_id": "813368194217-pp7s7ts07ua7jvgn80evqtqrfgkroe0m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6_UMZVjQhu3o8aQnCy7Ev3HaaaeUt_PQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "813368194217-pp7s7ts07ua7jvgn80evqtqrfgkroe0m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
